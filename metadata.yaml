@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8124
     wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Stoddard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18573#Abraham-Lincoln--13-An-Horatian-Ode
 gutenberg_issued: '2006-06-13'
 gutenberg_type: Text
 identifiers:
