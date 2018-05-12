@@ -1,0 +1,28 @@
+_repo: Abraham-Lincoln--13-An-Horatian-Ode_18573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoddard, Richard Henry
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '8124'
+    url: http://www.gutenberg.org/2009/agents/8124
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Stoddard
+description: ''
+gutenberg_issued: '2006-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Poetry'
+- !lcc 'E456'
+- !lcc 'PS'
+title: "Abraham Lincoln\r\nAn Horatian Ode"
+url: http://www.gutenberg.org/ebooks/18573
